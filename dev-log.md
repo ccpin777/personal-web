@@ -20,6 +20,28 @@
 
 ---
 
+## 2026-06-07 (Session 7)
+
+### Technical Changes
+
+- `resources/` folder created; moved `profile.jpg`, `PinChen_CV.pdf`, `icon-180.png`, `icon-192.png`, `icon-512.png` into it
+- Updated all paths in `index.html` (og:image, apple-touch-icon, CV link, profile img) and `manifest.json`
+- Icon "P" offset adjusted from +20px → +8px for better visual centering
+- `CLAUDE.md`: added rule to provide one-line deploy description on "完成"
+
+---
+
+## 2026-06-07 (Session 6)
+
+### Technical Changes
+
+- PWA support added for iOS "Add to Home Screen" standalone mode
+- Created `manifest.json` (display: standalone, theme_color: #0071e3)
+- Added to `<head>`: `apple-mobile-web-app-capable`, `apple-mobile-web-app-status-bar-style`, `apple-mobile-web-app-title`, `apple-touch-icon`, `theme-color`, `manifest` link
+- Generated placeholder icons via ImageMagick: `icon-180.png` (apple-touch-icon), `icon-192.png`, `icon-512.png` — blue circle (#0071e3) with white "P"
+
+---
+
 ## 2026-06-07 (Session 5)
 
 ### Technical Changes
