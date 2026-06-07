@@ -747,9 +747,19 @@ section:nth-child(even) {
     align-items: center;
 }
 
-.pub-journal {
+.pub-journal .pub-tag em {
     font-style: italic;
-    color: var(--text-secondary);
+}
+
+.pub-top {
+    display: flex;
+    align-items: baseline;
+    gap: 16px;
+    margin-bottom: 12px;
+}
+
+.pub-top .pub-tag {
+    margin-bottom: 0;
 }
 
 .pub-link {

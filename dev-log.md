@@ -20,6 +20,19 @@
 
 ---
 
+## 2026-06-07 (Session 8)
+
+### Technical Changes
+
+- Publications: fixed italic scope — changed `.pub-journal { font-style: italic }` to `.pub-journal .pub-tag em { font-style: italic }`; wrapped journal names in `<em>` so only name is italic, year is upright
+- Publications: removed `pub-authors` div from all 3 conference cards
+- Publications: removed `pub-meta` (year) div from all 3 conference cards; year now embedded in tag text
+- Publications: added year to journal tags ("Inorganic Chemistry 2025", "JACS 2023") and ECS conference tag ("249th ECS Meeting 2026")
+- Publications: added `.pub-top` flex wrapper (align-items: baseline, gap: 16px) to place View Publisher link inline after author name
+- `terminal.txt`: added as scratch file for copy-paste (not committed)
+
+---
+
 ## 2026-06-07 (Session 7)
 
 ### Technical Changes
