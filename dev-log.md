@@ -20,6 +20,14 @@
 
 ---
 
+## 2026-06-07 (Session 5)
+
+### Technical Changes
+
+- No structural changes; content-only session (see content-log.md)
+
+---
+
 ## 2026-06-07 (Session 4)
 
 ### Technical Changes
