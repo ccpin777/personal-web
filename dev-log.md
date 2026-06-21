@@ -20,6 +20,15 @@
 
 ---
 
+## 2026-06-14 (Session 11)
+
+### Technical Changes
+
+- `deploy.command`: fixed broken path (`active/Pin-Web` → `Active/[WIP] Pin-Web`); quoted path to handle brackets and spaces
+- Expertise / Core Strengths cards hover: removed `::before` gradient overlay; replaced with solid color tint (`rgba(..., 0.03)`) on card background per color variant (green/blue/orange/purple/yellow)
+
+---
+
 ## 2026-06-08 (Session 10)
 
 ### Technical Changes
