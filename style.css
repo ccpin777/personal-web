@@ -1152,3 +1152,13 @@ footer {
         white-space: normal;
     }
 }
+
+
+.expertise-grid{grid-template-columns:repeat(2,minmax(0,1fr));}
+.expertise-card{display:grid;grid-template-columns:48px minmax(0,1fr);column-gap:20px;align-items:start;padding:28px;}
+.expertise-icon{grid-row:span 3;margin-bottom:0;}
+.expertise-card h3{margin:0 0 8px;}
+.expertise-card p{margin:0;}
+.skills-tags{grid-column:2;margin-top:16px;}
+@media (max-width:900px){.expertise-grid{grid-template-columns:1fr;}}
+@media (max-width:768px){.expertise-card{display:block;}.expertise-icon{margin-bottom:16px;}.skills-tags{grid-column:auto;}}

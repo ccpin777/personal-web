@@ -26,6 +26,8 @@
 
 - Standard Hero reorganized with role first, full name and PhD, personal headline, italicized closing phrase, and updated `View Publications` CTA
 - Standard About section renamed `The Work`; added structure-property introduction and confirmed timeline labels (`Current`, `2018-2024`, `Summer 2024`)
+- Simplified the portfolio copy with more direct first-person language and less template-like section headings.
+- Redesigned the expertise cards as horizontal two-column cards on desktop, with stacked responsive layouts for smaller screens.
 - Replaced Standard `Core Strengths` cards with the `How I Work` section and three concise working principles while retaining the original blue-white palette and system font
 - Standard section headings unified with small category labels and descriptive headlines
 - Standard publications updated with Google Scholar arrow link, `Read Paper` links, and contribution summaries for the two journal papers
