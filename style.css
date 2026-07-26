@@ -257,6 +257,10 @@ section:nth-child(even) {
     letter-spacing: -0.03em;
 }
 
+.hero-title-lead {
+    font-weight: 500;
+}
+
 .gradient-text {
     background: linear-gradient(135deg, var(--primary) 0%, var(--secondary) 100%);
     -webkit-background-clip: text;
@@ -1049,9 +1053,6 @@ footer {
     margin-bottom: 12px;
 }
 
-.hero-title .gradient-text {
-    font-style: italic;
-}
 
 .section-kicker {
     color: var(--primary);
