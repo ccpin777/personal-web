@@ -5,6 +5,10 @@ Personal academic and professional portfolio website for Chuan-Pin (Pin) Chen, P
 ## Tech Stack
 
 - Plain HTML / CSS / JavaScript (no framework)
+├── standard.html          # Standard version for comparison
+├── standard-style.css     # Standard comparison styles
+├── prototype.html         # Prototype version for comparison
+├── prototype-style.css    # Prototype comparison styles
 - [Tabler Icons](https://tabler.io/icons) via CDN webfont
 - Apple-style design system (SF Pro font stack, `#0071e3` blue, `#f5f5f7` gray)
 

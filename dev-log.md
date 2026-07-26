@@ -20,6 +20,19 @@
 
 ---
 
+## 2026-07-26 (Session 12)
+
+### Technical Changes
+
+- Standard Hero reorganized with role first, full name and PhD, personal headline, italicized closing phrase, and updated `View Publications` CTA
+- Standard About section renamed `The Work`; added structure-property introduction and confirmed timeline labels (`Current`, `2018-2024`, `Summer 2024`)
+- Replaced Standard `Core Strengths` cards with the `How I Work` section and three concise working principles while retaining the original blue-white palette and system font
+- Standard section headings unified with small category labels and descriptive headlines
+- Standard publications updated with Google Scholar arrow link, `Read Paper` links, and contribution summaries for the two journal papers
+- Added `standard.html` / `standard-style.css` and `prototype.html` / `prototype-style.css` for side-by-side version comparison
+
+---
+
 ## 2026-06-14 (Session 11)
 
 ### Technical Changes
