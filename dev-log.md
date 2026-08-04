@@ -1,5 +1,30 @@
 # Dev Log — Pin Chen Portfolio
 
+## 2026-08-04
+
+### Content Changes
+
+- Replaced the public CV with the general R&D version.
+- Added concrete Argonne contributions: membrane synthesis, GPC-monitored reproducibility workflows, EIS conductivity evaluation, and SAXS/GISAXS measurements conducted in collaboration with beamline scientists.
+- Expanded technical details to include variable-temperature and multinuclear NMR, isotope-labeling experiments, ionic conductivity, and ion permselectivity.
+- Reduced slogan-like language, shortened the Argonne experience paragraph, added teaching and mentoring experience, and broadened the materials positioning beyond membranes and fuel cells.
+- Added a shared desktop heading layout for Work, How I Work, Methods, and Selected Publications; Contact remains unchanged.
+- Increased desktop heading size, extended the heading underline, and shortened the publications summary.
+- Refined section labels and headings to My Work / How / Methods with a more concise materials-methods title.
+- Kept all section headings and supporting text stacked vertically for a less crowded layout.
+- Renamed the Methods heading to From synthesis to performance, slightly increased section-label size, and aligned the navigation label with My Work.
+- Refined the main section headlines to From molecules to membranes and Structure–property thinking.
+- Reworked the three approach cards to distinguish evidence, collaboration, and uncertainty resolution without repeating the section summary.
+- Renamed Selected Publications to Selected work and shortened its supporting summary.
+- Reduced repeated wording between the Hero and My Work sections, refined the PhD wording, and made Laboratory Operations a complete first-person sentence.
+- Updated the publication navigation label to Research.
+- Grouped the My Work cards into Experience and Research direction without removing the original focus and next-step cards.
+- Reduced repeated wording between the Hero and My Work sections, refined the PhD wording, and made Laboratory Operations a complete first-person sentence.
+- Updated the publication navigation label to Research.
+- Grouped the My Work cards into Experience and Research direction without removing the original focus and next-step cards.
+
+- Simplified the My Work supporting line to focus on catalysis, polymer membranes, and electrochemistry for energy applications.
+
 ## How to Use
 
 每次有重大改動時，在最上方加一個新的日期區塊：
