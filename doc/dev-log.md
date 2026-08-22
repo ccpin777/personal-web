@@ -1,3 +1,11 @@
+# Pin-Web — Dev Log
+
+## 1.0 — 2026-08-17 — Version baseline
+
+No fixed product version or existing release tag was found. The current Pin-Web site state is therefore recorded as the first tracked baseline: **1.0**.
+
+---
+
 # Dev Log — Pin Chen Portfolio
 
 ## 2026-08-04
