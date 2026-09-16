@@ -646,6 +646,15 @@ section:nth-child(even) {
     gap: 24px;
 }
 
+.publication-group-label {
+    color: var(--primary);
+    font-size: 0.8rem;
+    font-weight: 700;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    margin: 8px 0 -8px;
+}
+
 .pub-card {
     background: var(--bg-card);
     border: 1px solid var(--border-color);

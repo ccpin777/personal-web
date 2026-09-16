@@ -1,6 +1,6 @@
 # Pin-Web Dev Log
 
-近期開發紀錄按月份封存，完整內容請參閱下列檔案：
+Recent development logs are archived by month. For the complete history, please refer to the files below:
 
 - [2026-06](dev-log_archive/dev-log-2026-06.md)
 - [2026-07](dev-log_archive/dev-log-2026-07.md)
