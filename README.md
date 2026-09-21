@@ -20,7 +20,8 @@ Pin-Web/
 ├── style.css            # All styles
 ├── script.js            # Mobile menu, scroll reveal, nav highlighting
 ├── profile.jpg          # Profile photo
-├── PinChen_CV.pdf       # CV (linked from hero section)
+├── resources/
+│   └── Pin's CV.pdf    # Public CV (linked from hero section)
 ├── deploy.command       # Double-click to deploy to GitHub Pages
 ├── dev-log.md           # Technical development log
 └── My Background/       # gitignored — private context files
