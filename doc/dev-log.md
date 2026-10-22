@@ -13,3 +13,8 @@ Recent development logs are archived by month. For the complete history, please 
 - Preserved design files, navigation, KLA, publications, CV PDF, and contact service; no version bump or deployment.
 - Verification: script.js syntax and git diff --check passed; 8 internal references and 8 local asset references resolved. Compared against HEAD: publications, navigation, KLA paragraph, form markup, and all href/src/action values unchanged.
 - Limitations: no installed browser or Playwright/Puppeteer available for desktop/mobile visual QA. External publication destinations and Formspree delivery were not tested; no form submission was sent.
+
+## 2026-10-22 — Ignore macOS folder metadata
+
+- Added .DS_Store to the project .gitignore and removed the three existing copies (root, doc, resources) from Git tracking while retaining local files. This prevents folder metadata from being included by deploy.command.
+- Verification: all three local files still exist, git ls-files reports no tracked .DS_Store files, and git check-ignore matches all three. No commit, push, or deployment performed.

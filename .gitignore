@@ -2,3 +2,6 @@ deploy.command
 My Background/
 CLAUDE.md
 problems/
+
+# macOS folder metadata
+.DS_Store
